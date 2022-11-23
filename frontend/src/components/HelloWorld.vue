@@ -18,9 +18,9 @@
     <ul>
       <li><a href="https://vuejs.org" target="_blank" rel="noopener">Bacon</a></li>
       <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">comida</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">pessoa</a></li>
+      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Pizza</a></li>
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">carne</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">prato</a></li>
+      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">Xesque</a></li>
     </ul>
     <h3>Fabio</h3>
     <ul>
