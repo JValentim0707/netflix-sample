@@ -27,7 +27,7 @@
       <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">cenoura</a></li>
       <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">abacaxi</a></li>
       <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">pepino</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">alface</a></li>
+      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">rabanete</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">pimenta</a></li>
     </ul>
   </div>
