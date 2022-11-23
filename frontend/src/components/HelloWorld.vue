@@ -22,13 +22,13 @@
       <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
       <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
     </ul>
-    <h3>Ecosystem</h3>
+    <h3>Fabio</h3>
     <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
+      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">cenoura</a></li>
+      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">abacaxi</a></li>
+      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">pepino</a></li>
+      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">alface</a></li>
+      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">pimenta</a></li>
     </ul>
   </div>
 </template>
